@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 
 def get_user_age_seconds(user_create_date):
     """
+    .
     This functions gets the user date creation (user['CreateDate'])
     and returns the total seconds the user is living
     :param user_create_date:
